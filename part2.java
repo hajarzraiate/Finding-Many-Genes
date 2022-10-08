@@ -1,3 +1,6 @@
+import edu.duke.*;
+import java.io.File;
+
 public class Part2 {
     public int howMany(String stringa, String stringb){
         int count = 0;
